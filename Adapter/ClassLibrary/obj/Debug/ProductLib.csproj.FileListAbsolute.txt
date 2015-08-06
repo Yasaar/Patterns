@@ -1,0 +1,5 @@
+C:\Users\Yasaar\Desktop\OOAD2-master\Adapter\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Yasaar\Desktop\OOAD2-master\Adapter\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Yasaar\Desktop\OOAD2-master\Adapter\ClassLibrary\obj\Debug\ProductLib.csprojResolveAssemblyReference.cache
+C:\Users\Yasaar\Desktop\OOAD2-master\Adapter\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Yasaar\Desktop\OOAD2-master\Adapter\ClassLibrary\obj\Debug\ClassLibrary.pdb

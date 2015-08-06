@@ -1,0 +1,9 @@
+C:\Users\Yasaar\Desktop\OOAD2-master\Adapter\UnitTestForAdapter\bin\Debug\UnitTestForAdapter.dll
+C:\Users\Yasaar\Desktop\OOAD2-master\Adapter\UnitTestForAdapter\bin\Debug\UnitTestForAdapter.pdb
+C:\Users\Yasaar\Desktop\OOAD2-master\Adapter\UnitTestForAdapter\bin\Debug\ClassLibrary.dll
+C:\Users\Yasaar\Desktop\OOAD2-master\Adapter\UnitTestForAdapter\bin\Debug\ProductAdapterLib.dll
+C:\Users\Yasaar\Desktop\OOAD2-master\Adapter\UnitTestForAdapter\bin\Debug\ClassLibrary.pdb
+C:\Users\Yasaar\Desktop\OOAD2-master\Adapter\UnitTestForAdapter\bin\Debug\ProductAdapterLib.pdb
+C:\Users\Yasaar\Desktop\OOAD2-master\Adapter\UnitTestForAdapter\obj\Debug\UnitTestForAdapter.csprojResolveAssemblyReference.cache
+C:\Users\Yasaar\Desktop\OOAD2-master\Adapter\UnitTestForAdapter\obj\Debug\UnitTestForAdapter.dll
+C:\Users\Yasaar\Desktop\OOAD2-master\Adapter\UnitTestForAdapter\obj\Debug\UnitTestForAdapter.pdb

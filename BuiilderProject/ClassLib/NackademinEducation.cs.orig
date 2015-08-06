@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ClassLib
+{
+    public class NackademinEducation : IEducation
+    {
+<<<<<<< HEAD
+        //public string InviteStudents {
+        //    get { return "200"; }
+            
+        //}
+        //public string AssignTeacher 
+        //{
+        //    get { return "Kurt"; }
+        //}
+        //public string ProcessStudentFeedback
+        //{
+        //    get { return "Good"; }
+        //}
+=======
+        public string InviteStudents { get; set; }
+        public string AssignTeacher { get; set; }
+        public string ProcessStudentFeedback { get; set; }
+>>>>>>> d3de3ac7ff60fa13c6c351d955ba654e4e67d92e
+    }
+
+}

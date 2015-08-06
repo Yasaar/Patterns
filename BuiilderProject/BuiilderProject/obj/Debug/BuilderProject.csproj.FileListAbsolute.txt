@@ -1,0 +1,7 @@
+C:\Users\Yasaar\Desktop\OOAD2-master\BuiilderProject\BuiilderProject\bin\Debug\BuiilderProject.dll
+C:\Users\Yasaar\Desktop\OOAD2-master\BuiilderProject\BuiilderProject\bin\Debug\BuiilderProject.pdb
+C:\Users\Yasaar\Desktop\OOAD2-master\BuiilderProject\BuiilderProject\bin\Debug\ClassLib.dll
+C:\Users\Yasaar\Desktop\OOAD2-master\BuiilderProject\BuiilderProject\bin\Debug\ClassLib.pdb
+C:\Users\Yasaar\Desktop\OOAD2-master\BuiilderProject\BuiilderProject\obj\Debug\BuilderProject.csprojResolveAssemblyReference.cache
+C:\Users\Yasaar\Desktop\OOAD2-master\BuiilderProject\BuiilderProject\obj\Debug\BuiilderProject.dll
+C:\Users\Yasaar\Desktop\OOAD2-master\BuiilderProject\BuiilderProject\obj\Debug\BuiilderProject.pdb
